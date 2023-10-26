@@ -1,6 +1,6 @@
-public class caden {
+public class test{
 
-    public void test() {
+    public void testing() {
         System.out.println("Woo");
     }
     public void test1() {
