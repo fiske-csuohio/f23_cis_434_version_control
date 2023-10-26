@@ -12,5 +12,6 @@ void function()
 int main()
 {
 	printf("new line 2\n");
+	printf("here is text");
 	return(0);
 }
