@@ -4,4 +4,5 @@ void none(){
 }
 
 int main(){
+	return(0);
 }
