@@ -2,7 +2,10 @@
 
 void function(){
 	printf("Hello");
-	printf("this is a new line1");
+<<<<<<< HEAD
+	printf("this is a new line2");
+=======
+>>>>>>> 4dfdc97f1ecd7520aeda599ec6dfb3120a529260
 }
 
 void main(void){
