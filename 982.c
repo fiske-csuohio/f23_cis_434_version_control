@@ -7,4 +7,3 @@ void function(){
 void main(void){
 	function();
 }
-
