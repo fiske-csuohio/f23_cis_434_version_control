@@ -7,4 +7,5 @@ int main(){
 
 int function(){
 	printf("Hello");
+	printf("Some text fr");
 }
