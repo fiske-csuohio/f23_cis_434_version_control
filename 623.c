@@ -7,4 +7,5 @@ void function(){
 
 void main(void){
 	function();
+	printf("Googly eye joe");
 }
